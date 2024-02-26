@@ -1,7 +1,7 @@
 
 ## Description
 
-This project aims to automate the interaction with a web application using Selenium WebDriver in JavaScript. The goal is to demonstrate how to locate and interact with elements on a webpage using XPath expressions.
+This project aims to automate the interaction with a web application using Selenium WebDriver in JavaScript. The goal is to demonstrate how to locate and interact with elements on a webpage. 
 
 ## Prerequisites
 
