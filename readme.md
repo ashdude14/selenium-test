@@ -13,7 +13,7 @@ This project aims to automate the interaction with a web application using Selen
 
 1. **Clone the repository to your local machine:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/ashdude14/selenium-test.git
    cd your-repository
    npm install
    
